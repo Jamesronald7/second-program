@@ -1,2 +1,3 @@
 # second-program
-second try
+hi
+how are you
